@@ -47,3 +47,11 @@
 42. eliuds-eggs :: bits, loop
 43. rotational-cipher :: string, loop, linq
 44. atbash-cipher :: string, loop, linq
+45. basics-monitor-rush :: list, table, dedup
+46. basics-transformation-csv :: csv, table, list, loop, procedure
+46. basics-transformation-json :: json, table, list, loop, procedure
+46. basics-transformation-xml **WIP** :: xml, table, list, loop, procedure
+47. http-cake-is-a-lie :: service, lock, isolated
+48. sieve :: math, loop, dp
+49. knapsack :: dp, loop, optimization
+50. two-bucket :: hard, class, iterative, search
