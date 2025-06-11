@@ -49,9 +49,15 @@
 44. atbash-cipher :: string, loop, query
 45. basics-monitor-rush :: list, table, dedup
 46. basics-transformation-csv :: csv, table, list, loop, procedure
-46. basics-transformation-json :: json, table, list, loop, procedure
-46. basics-transformation-xml :: xml, table, list, loop, procedure
-47. http-cake-is-a-lie :: service, lock, isolated
-48. sieve :: math, loop, dp
-49. knapsack :: dp, loop, optimization
-50. two-bucket :: hard, class, iterative, search
+47. basics-transformation-json :: json, table, list, loop, procedure
+48. basics-transformation-xml :: xml, table, list, loop, procedure
+49. http-cake-is-a-lie :: service, lock, isolated
+50. sieve :: math, loop, dp
+51. knapsack :: dp, loop, optimization
+52. two-bucket :: hard, class, iterative, search
+53. yacht :: dices, game, logic
+54. pascals-triangle :: math, matrix
+55. kindergarten-garden :: query, map, list, span
+56. robot-simulator :: record, readonly, coordinates
+57. http-salary-converter :: client, params
+58. service-composition :: client, procedure, composition
