@@ -23,3 +23,13 @@
 18. triangle :: math, conditions
 19. anagram :: list, string
 20. sum-of-multiples :: list
+21. two-fer :: string
+22. isogram :: string, set, regexp
+23. matching-brackets :: string, stack
+24. diamond :: sb, imperative, conditions, use
+25. high-school-sweetheart :: string
+26. bird-count :: list
+27. weather-ranking :: math, order
+28. tisbury-treasure-hunt :: tuple
+29. wine-cellar :: named args
+30. high-score-board :: dict
