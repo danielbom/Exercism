@@ -33,3 +33,13 @@
 28. tisbury-treasure-hunt :: tuple
 29. wine-cellar :: named args
 30. high-score-board :: dict
+31. gotta-snatch-em-all :: set
+32. pizza-pricing :: list, recursive types
+33. list-ops :: list, fold
+34. go :: result
+35. erlang-extraction :: external
+36. expert-experiments :: result, use
+37. spring-cleaning :: assert
+38. dna-encoding :: bits, result
+39. newsletter :: file, use, result, loop, underscore
+40. secure-treasure-chest :: opaque type
