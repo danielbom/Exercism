@@ -43,3 +43,13 @@
 38. dna-encoding :: bits, result
 39. newsletter :: file, use, result, loop, underscore
 40. secure-treasure-chest :: opaque type
+41. zipper :: data structures, tree
+42. sticker-shop :: opaque type, phantom type
+43. pov :: data structure, tree, graph
+44. collatz-conjecture :: math
+45. resistor-color-duo :: math
+46. rna-transcription :: list, result
+47. series :: string, list, use, error
+48. phone-number :: regex, string
+49. strain :: list
+50. pangram :: string, set
