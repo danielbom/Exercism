@@ -53,3 +53,8 @@
 48. phone-number :: regex, string
 49. strain :: list
 50. pangram :: string, set
+51. reverse-string :: string
+52. resistor-color :: enum
+53. armstrong-numbers :: big numbers, math
+54. darts :: math
+55. resistor-color-trio :: math, case
