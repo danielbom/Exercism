@@ -58,3 +58,8 @@
 53. armstrong-numbers :: big numbers, math
 54. darts :: math
 55. resistor-color-trio :: math, case
+56. space-age :: math
+57. kindergarten-garden :: list, chunks
+58. robot-simulator :: type
+59. accumulate :: recursion
+60. eliuds-eggs :: math
