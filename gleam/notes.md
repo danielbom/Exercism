@@ -63,3 +63,8 @@
 58. robot-simulator :: type
 59. accumulate :: recursion
 60. eliuds-eggs :: math
+61. book-store :: math, recursion
+62. pythagorean-triplet :: math, search
+63. satellite :: tree, algo
+64. binary-search-tree :: tree, zipper
+65. bottle-song :: string
