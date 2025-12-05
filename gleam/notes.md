@@ -68,3 +68,8 @@
 63. satellite :: tree, algo
 64. binary-search-tree :: tree, zipper
 65. bottle-song :: string
+66. perfect-numbers :: math, fold, iterator, factors
+67. bowling :: logic, type, complex
+68. pascals-triangle :: recusion, list
+69. tournament :: dict, sb, tabulate
+70. yacht :: logic, list
