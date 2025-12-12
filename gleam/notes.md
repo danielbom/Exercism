@@ -69,7 +69,13 @@
 64. binary-search-tree :: tree, zipper
 65. bottle-song :: string
 66. perfect-numbers :: math, fold, iterator, factors
-67. bowling :: logic, type, complex
+67. bowling :: logic, type, hard
 68. pascals-triangle :: recusion, list
 69. tournament :: dict, sb, tabulate
 70. yacht :: logic, list
+71. word-count :: dict, tokenize
+72. scrabble-score :: dict, regexp
+73. custom-set :: dict, set
+74. rectangles :: dict, fold, hard
+75. clock :: math
+
