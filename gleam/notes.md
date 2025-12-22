@@ -78,4 +78,9 @@
 73. custom-set :: dict, set
 74. rectangles :: dict, fold, hard
 75. clock :: math
+76. etl :: use, fold
+77. grains :: math
+78. hamming :: zip
+79. high-scores :: list
+80. house :: pattern recognition, string
 
