@@ -83,4 +83,9 @@
 78. hamming :: zip
 79. high-scores :: list
 80. house :: pattern recognition, string
+81. secret-handshake :: bitwise
+82. grade-school :: dict, list, order
+83. matrix :: list, result
+84. largest-series-product :: list, window
+85. nth-prime :: yielder, prime
 
