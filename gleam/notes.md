@@ -88,4 +88,9 @@
 83. matrix :: list, result
 84. largest-series-product :: list, window
 85. nth-prime :: yielder, prime
+86. nucleotide-count :: try, fold
+87. pig-latin :: string
+88. protein-translation :: dict
+89. proverb :: sb, list
+90. queen-attack :: math
 
