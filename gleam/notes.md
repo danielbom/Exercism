@@ -93,4 +93,9 @@
 88. protein-translation :: dict
 89. proverb :: sb, list
 90. queen-attack :: math
+91. twelve-days :: string, range
+92. acronym :: string, list, loop
+93. all-your-base :: math
+94. allergies :: bitwise
+95. dnd-character :: random, math
 
