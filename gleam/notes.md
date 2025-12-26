@@ -98,4 +98,10 @@
 93. all-your-base :: math
 94. allergies :: bitwise
 95. dnd-character :: random, math
+96. flatten-array :: list, flatmap
+97. sublist :: list
+98. circular-buffer :: data structures, list, dict, queue
+99. atbash-cipher :: string, bitarray
+100. killer-sudoku-helper :: combinations
+
 
